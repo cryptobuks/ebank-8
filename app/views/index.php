@@ -57,7 +57,7 @@
           <input id="login-btn" type="submit">
         </div>
         <div class="form-group">
-          <a href="register">register?</a>
+          <a class="btn"href="register">register?</a>
         </div>
       </form>
 	</div>
